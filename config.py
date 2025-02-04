@@ -66,7 +66,7 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True
 
 #Short Url or Api
 SHORT_URL = os.environ.get("SHORTNER_URL", "modijiurl.com")
-SHORT_API = os.environ.get("SHORTNER_API", "4b39e2acc3fa1d818f86680e073d07fffb3b276d")
+SHORT_API = os.environ.get("SHORTNER_API", "62401acaca5992bcc3b96645f310eca0b0cb607d")
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ - [ @Ecchi_Network ]"
