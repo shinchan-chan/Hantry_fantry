@@ -13,7 +13,7 @@ TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7085453202:AAEfM1JQAS2Ha0U5ccPMDa
 APP_ID = int(os.environ.get("APP_ID", "22706444"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "6e835a092d3431effe2c909873db1dab")
+API_HASH = os.environ.get("API_HASH", "4b39e2acc3fa1d818f86680e073d07fffb3b276d")
 
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002273221267"))
@@ -66,7 +66,7 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True
 
 #Short Url or Api
 SHORT_URL = os.environ.get("SHORTNER_URL", "modijiurl.com")
-SHORT_API = os.environ.get("SHORTNER_API", "62401acaca5992bcc3b96645f310eca0b0cb607d")
+SHORT_API = os.environ.get("SHORTNER_API", "4b39e2acc3fa1d818f86680e073d07fffb3b276d")
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ - [ @Ecchi_Network ]"
