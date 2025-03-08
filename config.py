@@ -29,7 +29,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://adamopytbusiness1:uSswEjo
 DB_NAME = os.environ.get("DATABASE_NAME", "Mitsuri_Pro_File_Bot")
 
 #force sub channel id, if you want enable force sub
-FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "100239507046"))
+FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-100239507046"))
 FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002395070466"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
@@ -65,8 +65,8 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 #Short Url or Api
-SHORT_URL = os.environ.get("SHORTNER_URL", "Inshorturl.com")
-SHORT_API = os.environ.get("SHORTNER_API", "541f4d222e65b683d7fa93ea92e1af4801c5de3a")
+SHORT_URL = os.environ.get("SHORTNER_URL", "modijiurl.com")
+SHORT_API = os.environ.get("SHORTNER_API", "4b39e2acc3fa1d818f86680e073d07fffb3b276d")
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ - [ @Ecchi_Network ]"
