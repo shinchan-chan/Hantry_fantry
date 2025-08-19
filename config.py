@@ -25,17 +25,17 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "5961139833"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://adamopytbusiness1:uSswEjo4ZHMGDU8Z@cluster0.gqgmk.mongodb.net/?retryWrites=true&w=majority&appName=MitsuriProFileBot")
-DB_NAME = os.environ.get("DATABASE_NAME", "Mitsuri_ProFile_Bot")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sn117020:g3tULq1KLqxgzfgd@cluster0.ju3tzdx.mongodb.net/?retryWrites=true&w=majority&appName=ZeroTwoProbot")
+DB_NAME = os.environ.get("DATABASE_NAME", "Zero_Two_Probot")
 
 #force sub channel id, if you want enable force sub
 FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002292347562"))
-FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002434697731"))
+FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002326393039"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #pics
-START_PIC = os.environ.get("START_PIC", "https://envs.sh/m_4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/uan.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/m_l.jpg")
 
 #text
