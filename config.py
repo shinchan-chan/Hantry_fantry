@@ -16,7 +16,7 @@ APP_ID = int(os.environ.get("APP_ID", "22706444"))
 API_HASH = os.environ.get("API_HASH", "6e835a092d3431effe2c909873db1dab")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002273221267"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003069236178"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "5961139833"))
@@ -36,7 +36,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #pics
 START_PIC = os.environ.get("START_PIC", "https://envs.sh/uan.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/m_l.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/uaT.jpg")
 
 #text
 HELP_TXT = "<b>ʜɪ ᴅᴜᴅᴇ!!\nᴛʜɪs ɪs ᴀ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡʜɪᴄʜ ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ : [ @Ecchi_Network ]\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n💥 sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n🧑‍💻 ᴏᴡɴᴇᴅ ʙʏ : [ @Ecchi_Network ]</b>"
