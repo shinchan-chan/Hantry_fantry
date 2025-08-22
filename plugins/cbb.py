@@ -48,15 +48,15 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/DoraShin_hlo"),
-                        InlineKeyboardButton("ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/Adult_Flux")
+                        InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Ecchi_Network"),
+                        InlineKeyboardButton("ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/Ecchi_Network")
                     ],
                     [
-                        InlineKeyboardButton("H-Aɴɪᴍᴇ", url="https://t.me/+pTszNeTtNtI3MjNl"),
-                        InlineKeyboardButton("ᴊᴀᴠ ʟɪᴠᴇ ᴀᴄᴛɪᴏɴ", url="https://t.me/+0kuhG4Hlavc3ODk1")
+                        InlineKeyboardButton("H-Aɴɪᴍᴇ", url="https://t.me/+L1hVwV950xUxNDcx"),
+                        InlineKeyboardButton("Backup", url="https://t.me/+_02wRaMJiQRlNmI1")
                     ],
                     [
-                        InlineKeyboardButton("ʜᴀɴɪᴍᴇ&ʜ*ɴᴛᴀɪ", url="https://t.me/+pTszNeTtNtI3MjNl"),
+                        InlineKeyboardButton("cosplay", url="https://t.me/+qHZ1-put5XcwY2U1"),
                         InlineKeyboardButton("🔒ᴄʟᴏꜱᴇ", callback_data='close')
                     ]
                 ]
